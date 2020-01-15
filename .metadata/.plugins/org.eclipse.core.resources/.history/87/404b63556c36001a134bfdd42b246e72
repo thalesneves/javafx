@@ -1,0 +1,16 @@
+package gui;
+
+import javafx.fxml.FXML;
+import javafx.scene.control.Button;
+import util.Alerts;
+
+public class ViewController {
+
+	@FXML
+	private Button btnTest;
+	
+	@FXML
+	public void onBtnTestAction() {
+		Alerts
+	}
+}
